@@ -4,7 +4,7 @@
 🔭 I’m currently working on frontend at Ayudinga
 - 🌱 I’m currently learning Typescript, Machine Learning
 - 👯 I’m looking to collaborate on Data Science Project
-- 📫 How to reach me: fernando@fernandocutire.com
+- 📫 How to reach me: fernandocutire@gmail.com
 
 ![Github Stats for Fernando Cutire](https://github-readme-stats.vercel.app/api?username=FernandoCutire&show_icons=true&theme=tokyonight)
 
