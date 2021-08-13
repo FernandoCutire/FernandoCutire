@@ -10,6 +10,10 @@
 * Personal Page: https://fernandocutire.com/
 * Blog: https://dev.to/fernandocutire/
 
+## Skills
+- Web development using JS technologies such as React
+- Python skills for data science
+- Wordpress freelancing
 
 
 <!--
