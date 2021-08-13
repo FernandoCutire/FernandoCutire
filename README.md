@@ -6,15 +6,16 @@
 - 👯 I’m looking to collaborate on Devops 
 - 📫 How to reach me: fernandocutire@gmail.com
 
-* Twitter: https://twitter.com/fernandocutire
-* Personal Page: https://fernandocutire.com/
-* Blog: https://dev.to/fernandocutire/
 
 ## Skills
 - Web development using JS technologies such as React
 - Python skills for data science
 - Wordpress freelancing
 
+## Contact
+* Twitter: https://twitter.com/fernandocutire
+* Personal Page: https://fernandocutire.com/
+* Blog: https://dev.to/fernandocutire/
 
 <!--
 **FernandoCutire/FernandoCutire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
