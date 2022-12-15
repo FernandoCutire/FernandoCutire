@@ -2,8 +2,7 @@
 
 ### Hi there my name is Fernando Cutire
 
-🔭 I’m currently working on frontend at Ayudinga
-- 🌱 I’m currently learning Docker, Kubernetes and Typescript
+🔭 I’m currently working on data
 - 👯 I’m looking to collaborate on Devops projects, Full stack web apps and infrastructure 
 - 📫 How to reach me: fernandocutire@gmail.com
 
