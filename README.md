@@ -23,7 +23,7 @@ Hi 👋, I'm [Fernando Cutire](https://fernandocutire.com/).
 
 🎥 [Grow YouTube](https://www.youtube.com/@IniciativaGrow), where I occasionally record videos and do live streams
 
-✉️ 邮箱，<img src="https://services.nexodyne.com/email/customicon/3Dls2Ro2RbuxTPH7T0l3WAKjVo54DlZlCQ%3D%3D/FS4QRw0%3D/000000/ffffff/000000/2/image.png" style="height:21px;display:inline-block;vertical-align:middle;" />
+✉️ Email，<img src="https://services.nexodyne.com/email/customicon/3Dls2Ro2RbuxTPH7T0l3WAKjVo54DlZlCQ%3D%3D/FS4QRw0%3D/000000/ffffff/000000/2/image.png" style="height:21px;display:inline-block;vertical-align:middle;" />
 
 <!--
 TODO
