@@ -4,9 +4,9 @@ Hi 👋, I'm [Fernando Cutire](https://fernandocutire.com/).
 
 📛 Nickname: "FerQ" or "Cuti", online id: "ferq", real name: "Fernando Cutire", you can also call me "ferq"
 
-🤲 22+, Universidad Tecnológica de Panamá, Cloud Data Engineer , passionate about coding, tools, swimming, music, guitar, sharing, and writing
+🤲 22+, Universidad Tecnológica de Panamá, Cloud Data Engineer , passionate about coding, tools, swimming, music, guitar, sharing, and writing.
 
-💼 Began my career in 2022 at UTP, kicking off my journey in the Data, Cloud and Architecture. 
+💼 Began my career in 2021 at Ayudinga, kicking off my journey in the Data, Cloud, Frontend, Backend and Architecture space. 
 
 🚀 Currently working at LLA, focusing on Data and Machine Learning Engineering. 
 
