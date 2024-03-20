@@ -1,33 +1,36 @@
-## Basic Info
+Hi 👋, I'm [Fernando Cutire](https://fernandocutire.com/).
 
-### Hi there my name is Fernando Cutire
+## About Me
 
-🔭 I’m currently working on data
-- 👯 I’m looking to collaborate on Devops projects, Full stack web apps and infrastructure 
-- 📫 How to reach me: fernandocutire@gmail.com
+📛 Nickname: "FerQ" or "Cuti", online id: "ferq", real name: "Fernando Cutire", you can also call me "ferq"
 
+🤲 22+, Universidad Tecnológica de Panamá, [Your job level/position if applicable], passionate about coding, tools, swimming, music, guitar, sharing, and writing
 
-## Skills
-- Web development using JS technologies such as React
-- Python skills for data science
-- Wordpress freelancing
+💼 Began my career in 2022 at UTP, kicking off my journey in the Data, Cloud and Architecture. 
 
-## Contact
-* Twitter: https://twitter.com/fernandocutire
-* Personal Page: https://fernandocutire.com/
-* Blog: https://dev.to/fernandocutire/
+🚀 Currently working at LLA, focusing on Data and Machine Learning Engineering. 
+
+🦀 This year, I'm developing templates, projects, based on python packages, currently in the planning phase
+
+## How to Find Me
+📡 [Blog](https://fernandocutire.com/), where I share all my articles, available for RSS subscription
+
+🐦 [Twitter](https://twitter.com/fernandocutire), though not very active
+
+🐜 [LinkedIn](https://www.linkedin.com/in/fernandocutire/), very active on the platform
+
+👨‍💻 Github, where I like to be
+
+🎥 [Grow YouTube](https://www.youtube.com/@IniciativaGrow), where I occasionally record videos and do live streams
+
+✉️ 邮箱，<img src="https://services.nexodyne.com/email/customicon/3Dls2Ro2RbuxTPH7T0l3WAKjVo54DlZlCQ%3D%3D/FS4QRw0%3D/000000/ffffff/000000/2/image.png" style="height:21px;display:inline-block;vertical-align:middle;" />
 
 <!--
-**FernandoCutire/FernandoCutire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+TODO
 
-Here are some ideas to get you started:
+🖥️ Open-source enthusiast, I am the author/contributor of [list some tools, libraries, or projects you've created or contributed to]
+📅 Your newsletter or periodic publication, updated every [update frequency], with over [number] issues
+💬 Telegram Channel, for spontaneous thoughts and informal talks
+✍️ Your social media or publication, for occasional advertising or announcements
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
