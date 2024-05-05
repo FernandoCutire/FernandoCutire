@@ -8,7 +8,7 @@ Hi 👋, I'm [Fernando Cutire](https://fernandocutire.com/).
 
 💼 Began my career in 2021 at Ayudinga, kicking off my journey in the Data, Cloud, Frontend, Backend and Architecture space. 
 
-🚀 Currently working at LLA, focusing on Data and Machine Learning Engineering. 
+🚀 Currently working at The Panama Canal , focusing on Data and Machine Learning Engineering. 
 
 🦀 This year, I'm developing templates, projects, based on python packages, currently in the planning phase
 
